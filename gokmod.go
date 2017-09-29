@@ -1,6 +1,6 @@
 // Aaron Eppert - 2017
 // golang wrapper around libkmod
-package main
+package gokmod
 
 /*
 #cgo pkg-config: libkmod
